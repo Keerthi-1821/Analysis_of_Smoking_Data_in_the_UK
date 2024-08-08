@@ -10,18 +10,6 @@ This project involves the analysis of smoking data in the UK, aiming to understa
 - `Dashboard_Smoking_Data_UK.xlsx': This file contains the final interactive dashboard summarizing key insights from the analysis.
   
 ## EXCEL Dashboard
-
-Explore the interactive EXCEL dashboard online at [Coffee Sales _Tableau_Dashboard](https://tabsoft.co/3WOqeck).
-
-
-[![Tableau_Dashboard_Image](Tableau_Dashboard_Image.png)](Tableau_Dashboard_Image.png)
-
-Smoking_Data_UK_Raw.xlsx: The raw data file containing the original, unprocessed smoking data in the UK.
-Smoking_Data_UK_Cleaned_Pivots_Charts.xlsx: This file includes the cleaned data, along with pivot tables and charts created during the analysis.
-2. analysis/
-Smoking_Data_UK_Dashboard.xlsx: This file contains the final interactive dashboard summarizing key insights from the analysis.
-3. docs/
-README.md: This file, providing an overview of the project, instructions, and descriptions of each component.
-Project_Documentation.pdf (optional): Detailed documentation of the project, including methodology, findings, and conclusions.
-4. images/ (optional)
 Dashboard_Screenshots.png: Visual snapshots of the dashboard for a quick overview.
+
+[![Screenshot_Dashboard.png](Screenshot_Dashboard.png)](Screenshot_Dashboard.png)
