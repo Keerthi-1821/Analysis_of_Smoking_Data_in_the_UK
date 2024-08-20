@@ -12,4 +12,4 @@ This project involves the analysis of smoking data in the UK, aiming to understa
 ## EXCEL Dashboard
 Dashboard_Screenshots.png: Visual snapshots of the dashboard for a quick overview.
 
-[![Screenshot_Dashboard.png](Screenshot_Dashboard.png)](Screenshot_Dashboard.png)
+[![Dashboard_Screenshot.png](Dashboard_Screenshot.png)](Dashboard_Screenshot.png)
